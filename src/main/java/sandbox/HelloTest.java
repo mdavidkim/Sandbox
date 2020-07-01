@@ -10,7 +10,7 @@ public class HelloTest {
     	   System.out.println(lastThreeChar(testString));
        }
        else {
-    	   System.out.println("ERROR: Given string is less than 3 characters");
+    	   System.out.println("ERROR: Given string is less than 3 characters!");
        }
     }
 	
